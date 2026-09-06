@@ -33,8 +33,20 @@ O Materna+ ajuda nutrizes a se cadastrarem como doadoras de leite materno, encon
 https://github.com/MarcusDev01/Sprint_03_Materna
 
 ## Telas do aplicativo
+<img width="1206" height="599" alt="{E6E0740D-47D1-4FFE-A045-2AE55290C77B}" src="https://github.com/user-attachments/assets/21ef23cf-3a7e-4015-958a-9b9627ca8bdb" />
+<img width="1019" height="585" alt="{E6B20DB4-4142-4F14-844A-9EFFBA88ABA1}" src="https://github.com/user-attachments/assets/8d90ef26-f6e0-40c8-acec-67ba79e73368" />
+<img width="1048" height="620" alt="{212C6E8B-BCB0-4A85-9F82-3FBA89C14FCD}" src="https://github.com/user-attachments/assets/3ec20612-c280-4eba-ba65-0ae2cfb1b6ac" />
+<img width="1206" height="606" alt="{81DD4B8C-E9F5-4D8F-BEF0-517237AC942C}" src="https://github.com/user-attachments/assets/f1264ce5-9c35-48c5-8b2b-cc7bc076924d" />
+<img width="1221" height="617" alt="{50089B9C-B246-468E-96CB-8D62671E0FA3}" src="https://github.com/user-attachments/assets/4203ade1-c729-4d7d-b7f6-a08fbd83c82d" />
 
-> Inserir nesta seção os prints do aplicativo rodando no Android Studio, emulador ou dispositivo físico (não usar prints do Figma/slides).
+
+
+
+
+
+
+
+
 
 | Tela | Descrição |
 |---|---|
