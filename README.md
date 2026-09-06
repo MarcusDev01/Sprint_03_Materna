@@ -30,7 +30,7 @@ O Materna+ ajuda nutrizes a se cadastrarem como doadoras de leite materno, encon
 
 ## Link do repositório
 
-> Substituir pelo link do GitHub após o push do projeto: `https://github.com/<usuario>/<repositorio>`
+https://github.com/MarcusDev01/Sprint_03_Materna
 
 ## Telas do aplicativo
 
